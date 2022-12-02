@@ -21,6 +21,9 @@ Also, should not be priced for mid market/ Enterprise. i.e. similar pricing stru
 
 I need minimal formating options. Also, should have good deliverability rate and options/best practices to improve deliverability
 
+== MimePost ==
+https://mimepost.com/
+
 ----
 
 ### 2. Bi directional sync between slack threads and Notion 
