@@ -21,8 +21,27 @@ Also, should not be priced for mid market/ Enterprise. i.e. similar pricing stru
 
 I need minimal formating options. Also, should have good deliverability rate and options/best practices to improve deliverability
 
-== MimePost ==
-https://mimepost.com/
+#### 1. MimePost
+
+Mimepost is a email sending platform. The platform is mostly focused on developers. The main difference between MimePost and other ESP is that the MimePost delete user's email address just after sending it. So even in case if their system got hacked then also no one will get any data. 
+
+Still the platform is able to generate reports and analytics dashboards because they create a unique hash (irreversible) for every emails, which is then used to generate all the reports.
+
+The platform provides both SMTP and API.
+
+They have 2 pricing plans:
+
+##### Free Plan
+You pay $0 for every month
+
+You can send **100,000 emails** every month for **FREE** (SPAM NOT ALLOWED)
+
+##### Premium Plan
+You pay $50/month
+100k as in free plan + $0.1 for every 1,000 emails you send after that.
+
+
+You can signup at their website: **https://mimepost.com/**
 
 ----
 
